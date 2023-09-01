@@ -64,7 +64,7 @@ private final String consulttodos="select seccion ,nombrearticulo, precio from p
 		add(menus, BorderLayout.NORTH);
 		add(resultado, BorderLayout.CENTER);
 
-		JButton boton = new JButton("boton");
+		JButton boton = new JButton("consulta");
 		boton.addActionListener(new ActionListener() { // accion del boton 
 
 			@Override
