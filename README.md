@@ -8,4 +8,22 @@ ___
 
 ___
 
-## en ` **AplicaiconConsulta** ` encontraras la conexion a la base de datos 
+## en ` AplicaiconConsulta ` encontraras la conexion a la base de datos con el driver mysql, 
+## recordar cambiar usuario , contraseña y puerto que tengas en tu gestor;
+
+![imgen1](imgjava/img1.JPG)
+
+___
+
+## las consultas usadas son: 
+
+![imgen1](imgjava/img2.JPG)
+
+___
+
+## un ejemplo al utilizar  la primera consulta   con ` AplicacionConsulta.java ` seria: 
+
+![imgen1](imgjava/img3.JPG)
+___
+
+
