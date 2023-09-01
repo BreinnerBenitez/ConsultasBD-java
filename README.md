@@ -1,5 +1,5 @@
 # **ConsultasBD-java** 🐬 ☕
-## El archivo `sql.sql` contiene la base de datos con una entidad para ejecutar en  Mysql-WorkBench,
+## El archivo `sql.sql` contiene la base de datos con una entidad llamada producto para ejecutar en  Mysql-WorkBench,
 ## se le realizaran las consultas desde ` AplicacionConsulta.java ` utilizando un IDE. 
 
 ___
@@ -26,5 +26,5 @@ ___
 ![imgen1](imgjava/img33.JPG)
 ___
 
-## esta consulta trae la seccion, NombreArticulo, Precio.  
+## esta consulta muestra la seccion, NombreArticulo y Precio de la entidad producto.
 
