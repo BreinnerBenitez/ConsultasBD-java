@@ -23,7 +23,7 @@ ___
 
 ## un ejemplo al utilizar  la primera consulta   con ` AplicacionConsulta.java ` seria: 
 
-![imgen1](imgjava/img33.JPG)
+![imgen1](imgjava/img3.JPG)
 ___
 
 ## esta consulta muestra la seccion, NombreArticulo y Precio de la entidad producto.
