@@ -84,8 +84,8 @@ private final String consulttodos="select seccion ,nombrearticulo, precio from p
 
 		
 		String usuario = "root";
-		String contraseña = "breinner";
-		String link = "jdbc:mysql://localhost:3306/pildoras";
+		String contraseña = "pon tu contraseña";
+		String link = "jdbc:mysql://localhost:5019/pildoras";
 
 		try {
 
