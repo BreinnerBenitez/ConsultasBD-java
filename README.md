@@ -15,7 +15,7 @@ ___
 
 ___
 
-## las consultas usadas son: 
+## las consultas  preparadas son: 
 
 ![imgen1](imgjava/img2.JPG)
 
@@ -23,7 +23,7 @@ ___
 
 ## un ejemplo al utilizar  la primera consulta   con ` AplicacionConsulta.java ` seria: 
 
-![imgen1](imgjava/img3.JPG)
+![imgen1](imgjava/img33.JPG)
 ___
 
 
