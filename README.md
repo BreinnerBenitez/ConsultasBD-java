@@ -8,7 +8,7 @@ ___
 
 ___
 
-## en ` AplicaiconConsulta ` encontraras la conexion a la base de datos con el driver mysql, 
+## en ` AplicaiconConsulta.java ` encontraras la conexion a la base de datos con el driver mysql, 
 ## recordar cambiar usuario , contraseña y puerto que tengas en tu gestor;
 
 ![imgen1](imgjava/img1.JPG)
@@ -26,4 +26,5 @@ ___
 ![imgen1](imgjava/img33.JPG)
 ___
 
+## esta consulta trae la seccion, NombreArticulo, Precio.  
 
